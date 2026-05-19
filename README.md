@@ -3,7 +3,7 @@
 This repository provides the official PyTorch implementation for our ICML 2026 paper:  
 **Neutral-Reference Prompting for Vision–Language Models**  
 
-📄 [NeRP Paper Link](#) 
+📄 [NeRP Paper Link](https://arxiv.org/abs/2605.15615) 
 
 
 
