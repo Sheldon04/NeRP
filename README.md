@@ -137,5 +137,11 @@ NeRP is built upon [PromptKD](https://github.com/KaiyangZhou/CoOp) and [MMRL](ht
 If you find this repository useful for your research, please consider citing:  
 
 ```bibtex
-TODO
+@article{tian2026nerp,
+      title={Neutral-Reference Prompting for Vision-Language Models}, 
+      author={Senmao Tian and Xiang Wei and Shunli Zhang},
+      year={2026},
+      journal={arXiv},
+      pages={2605.15615},
+}
 ```
